@@ -134,7 +134,7 @@ MonoBehaviour:
       maxAreaLightsOnScreen: 64
       maxEnvLightsOnScreen: 32
       maxDecalsOnScreen: 512
-      maxPlanarReflectionOnScreen: 16
+      maxPlanarReflectionOnScreen: 32
       maxLightsPerClusterCell: 8
     hdShadowInitParams:
       maxShadowRequests: 128
